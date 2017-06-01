@@ -1,1 +1,1 @@
-# mysqy
+# mysql 练习
